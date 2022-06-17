@@ -1,5 +1,3 @@
-![Malchik]
-
 # Hi, I'm Malchik 👋
 
 <img align="left" alt="Ivan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=0xmalchik&show_icons=true&hide_border=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight&include_all_commits=true" />
